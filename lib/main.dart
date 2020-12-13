@@ -56,7 +56,7 @@ class _QuizPageState extends State<QuizPage> {
           context: context,
           type: AlertType.error,
           title: "RFLUTTER ALERT",
-          desc: "Flutter is more awesome with RFlutter Alert.",
+          desc: "Quiz is over,resetting.",
           buttons: [
             DialogButton(
               child: Text(
